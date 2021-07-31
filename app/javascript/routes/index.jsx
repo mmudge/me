@@ -29,6 +29,11 @@ export default () => {
         Projects
       </Link>
 
+
+
+
+
+
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/about" exact component={About} />

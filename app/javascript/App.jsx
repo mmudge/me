@@ -1,7 +1,4 @@
 import React from "react";
-import Routes from "./routes/index";
+import AppWrapper from './AppWrapper'
 
-// export default props => <>{Routes}</>;
-
-
-export default () => <Routes/>
+export default () => <AppWrapper />;
